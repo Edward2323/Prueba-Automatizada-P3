@@ -1,0 +1,14 @@
+{
+    "usuario_correcto": {
+
+      "_comment": "Las credenciales correctas estan vacias por obvias razones",
+
+      "username": "",
+      "password": ""
+    },
+    "usuario_incorrecto": {
+      "username": "usuarioincorrecto@gmail.com",
+      "password": "contraseñaincorrecta"
+    }
+  }
+  
